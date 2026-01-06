@@ -8,6 +8,7 @@ local DEFAULT_SUPPORTED_FILE_FORMATS = {
   "*.yaml",
   "*.yml",
   "*.json",
+  "*.env",
   -- Assumes the `filetype` is set to `json`
   "*.dockerconfigjson",
 }
